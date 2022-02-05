@@ -32,8 +32,8 @@
 </a>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=hemantapkh.pybirthdaywish" alt="visitors" />
 </p>
-<a href="https://youtu.be/Lpj73qkxnqI">
-<img src="https://img.shields.io/youtube/subscribers/Lpj73qkxnqI?style=social" alt="comments" />
+<a href="https://www.youtube.com/channel/UCnvSIXKLV9hPmH2TPtjlzPw">
+<img src="https://img.shields.io/badge/Followers-66069-red" alt="subscribers" />
 </a>
 </p>
 
